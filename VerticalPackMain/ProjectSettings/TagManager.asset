@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bottle
+  - Cherry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pozadina
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Pozadina
+    uniqueID: 2491156979
+    locked: 0
+  - name: Sky
+    uniqueID: 3514038539
+    locked: 0
+  - name: Houses
+    uniqueID: 2317994099
+    locked: 0
+  - name: Road
+    uniqueID: 2088691915
+    locked: 0
+  - name: Rain
+    uniqueID: 3816120471
+    locked: 0
+  - name: Characters
+    uniqueID: 221999707
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
